@@ -77,7 +77,7 @@
     "jquery": "3.7.1",
     "jquery-hotkeys": "0.2.2",
     "jsdom": "22.1.0",
-    "katex": "0.16.9",
+    "katex": "0.16.10",
     "marked": "9.1.6",
     "mermaid": "10.6.1",
     "mime-types": "2.1.35",
